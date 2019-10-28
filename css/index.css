@@ -141,3 +141,32 @@ body {
     background-color: #be3144;
     border: 1px solid #be3144;
 }
+
+
+/* contact */
+
+.contact {
+    background-color: #303841;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.contact__content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact__content p {
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 200;
+}
+
+.contact__content a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    text-shadow: 2px 2px 1px #1f1f1f;
+}
